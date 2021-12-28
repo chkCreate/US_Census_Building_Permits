@@ -10,6 +10,8 @@ No APIs available on the US Census Bureau Data site. Download Building Permits d
 
 * See folder [Building_Permit_Data]() for corresponding scripts and files.: 
 
+    * US Census Bureau Building Permit data is from this website [https://www2.census.gov/econ/bps/Place/]().
+
     * [Building_Permit_Data_Extraction.ipynb]() for the Jupyter Notebook file created to retrieve the Building Permit data.
 
     * The output DataFrame as a CSV file named [Building_Permit_Database.csv]().
@@ -18,4 +20,10 @@ No APIs available on the US Census Bureau Data site. Download Building Permits d
 
 
 ---
+
+### References
+* https://www.wsj.com/articles/new-york-sees-biggest-home-building-boom-in-years-11580654688
+* https://www.constructiondive.com/news/nyc-residential-permits-skyrocketed-180-in-2015/418991/
+* https://www.buildingcongress.com/advocacy-and-reports/reports-and-analysis/construction-outlook-update/New-york-city-construction-starts-soared-to-409-billion-in-2015.html
+* https://ny.curbed.com/2015/5/8/9962714/understand-new-yorks-current-building-boom-in-6-charts
 
